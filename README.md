@@ -1,2 +1,2 @@
-#My App
-This is my app.
+# My App
+<p>This is my app.</p>
